@@ -1,0 +1,7 @@
+[[rulesets]]
+group = "DIRECT"
+ruleset = "rules/ACL4SSR/Clash/ChinaDomain.list"
+
+[[rulesets]]
+group = "🔰 节点选择"
+ruleset = "[]FINAL"
